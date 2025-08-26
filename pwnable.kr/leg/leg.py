@@ -1,0 +1,2 @@
+payload = 0x8ce4 + 0x8d0c + 0x8d80
+print(payload)
